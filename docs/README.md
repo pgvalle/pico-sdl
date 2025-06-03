@@ -1,5 +1,7 @@
 # Documentation
 
+**READ IT [HERE](./html/index.html)**
+
 Building the documentation:
 
 ```
