@@ -107,4 +107,4 @@ pico-sdl-cmd {path to your program}
 
 # Documentation
 
-You can read the documentation [here](x.gif)
+You can read the documentation [here](https://pgvalle.github.io/pico-sdl/html/index.html)
