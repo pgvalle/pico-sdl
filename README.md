@@ -104,3 +104,7 @@ You can also open vscode terminal to use pico-sdl-cmd:
 ```
 pico-sdl-cmd {path to your program}
 ```
+
+# Documentation
+
+You can read the documentation [here](x.gif)
